@@ -1,0 +1,11 @@
+name 'sssd'
+maintainer 'Anthony Caiafa'
+maintainer_email 'acaiafa1@bloomberg.net'
+license 'all_rights'
+description 'Installs/Configures sssd'
+long_description 'Installs/Configures sssd'
+version '0.1.0'
+
+supports 'centos', '>= 6.4'
+supports 'redhat', '>= 6.4'
+supports 'ubuntu', '>= 12.04'
